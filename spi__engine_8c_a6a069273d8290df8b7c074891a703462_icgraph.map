@@ -1,0 +1,4 @@
+<map id="spi_engine_remove" name="spi_engine_remove">
+<area shape="rect" id="node1" title="Free the resources allocated by spi_init()." alt="" coords="149,5,296,32"/>
+<area shape="rect" id="node2" href="$drivers_2platform_2xilinx_2spi_8c.html#a0519870d764576c06ac5cbeee2658594" title="Free the resources allocated by spi_init()." alt="" coords="5,5,101,32"/>
+</map>

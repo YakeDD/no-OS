@@ -1,0 +1,34 @@
+<map id="drivers" name="drivers">
+<area shape="rect" id="node2" href="dir_e9eda26b88cc17d1d883760b76432267.html" title="accel" alt="" coords="448,27,520,75"/>
+<area shape="rect" id="node20" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="2045,123,2117,171"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000002_000117.html" title="2" alt="" coords="2025,104,2034,119"/>
+<area shape="rect" id="node3" href="dir_533627c0a8b23f4bbb9cf090ae0935cd.html" title="adc" alt="" coords="27,27,99,75"/>
+<area shape="rect" id="node6" href="dir_b149ab1ccab96ed12cd84b06194c8551.html" title="axi_core" alt="" coords="27,123,101,171"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000008_000044.html" title="1" alt="" coords="67,97,77,112"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000008_000117.html" title="2" alt="" coords="2025,104,2034,119"/>
+<area shape="rect" id="node4" href="dir_70e5ffb2196a88cd476589a01e10c76e.html" title="adc&#45;dac" alt="" coords="350,27,423,75"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000006_000117.html" title="1" alt="" coords="2025,104,2034,119"/>
+<area shape="rect" id="node5" href="dir_ddad95c4f3f0752760671074e01882a5.html" title="afe" alt="" coords="1488,27,1560,75"/>
+<area shape="rect" id="node7" href="dir_313a5847c6310e1ee26cdbb862541fa4.html" title="cdc" alt="" coords="1856,27,1928,75"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000052_000117.html" title="1" alt="" coords="2028,102,2038,117"/>
+<area shape="rect" id="node8" href="dir_97e3443f06d8305bc940c694cbb082dd.html" title="dac" alt="" coords="1760,27,1832,75"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000027_000117.html" title="2" alt="" coords="2026,103,2036,118"/>
+<area shape="rect" id="node9" href="dir_f751297d7f7adfe71cf12dd608049ebb.html" title="frequency" alt="" coords="1104,27,1189,75"/>
+<area shape="rect" id="node10" href="dir_3f392c23642daa0d375622f9779fab4e.html" title="gyro" alt="" coords="1008,27,1080,75"/>
+<area shape="rect" id="node11" href="dir_11af6096e5dc74320674ea3b84170181.html" title="impedance&#45;analyzer" alt="" coords="1584,27,1736,75"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000087_000117.html" title="1" alt="" coords="2026,103,2035,118"/>
+<area shape="rect" id="node12" href="dir_375ad0c2073d58ee2fd25a88e415e1e5.html" title="io&#45;expander" alt="" coords="1365,27,1464,75"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000089_000117.html" title="1" alt="" coords="2026,104,2035,119"/>
+<area shape="rect" id="node13" href="dir_fff9da22baad62ef1027d70baf6e3ed8.html" title="mux" alt="" coords="672,27,744,75"/>
+<area shape="rect" id="node14" href="dir_29211b82d49725e4c0b5ae512947c596.html" title="photo&#45;electronic" alt="" coords="1214,27,1341,75"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000094_000117.html" title="1" alt="" coords="2025,104,2035,119"/>
+<area shape="rect" id="node15" href="dir_481058711dd13ded877a88795a4a55f2.html" title="platform" alt="" coords="907,27,983,75"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000096_000117.html" title="21" alt="" coords="2021,104,2039,119"/>
+<area shape="rect" id="node16" href="dir_e419f953571bbde52e1b066c5b259aad.html" title="potentiometer" alt="" coords="768,27,883,75"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000103_000117.html" title="2" alt="" coords="2025,104,2035,119"/>
+<area shape="rect" id="node17" href="dir_0b39fbac2cace33377f825c44f66d588.html" title="rf&#45;transceiver" alt="" coords="219,27,325,75"/>
+<area shape="rect" id="node18" href="dir_9b2caac4e4dc4b19998e5fb877e5b175.html" title="sd&#45;card" alt="" coords="123,27,195,75"/>
+<area shape="rect" id="node19" href="dir_03ae8155b8b9174898609c87b4e5e3b2.html" title="temperature" alt="" coords="545,27,647,75"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000109_000117.html" title="1" alt="" coords="2025,104,2034,119"/>
+<area shape="rect" id="clust1" href="dir_14bc92f4b96c8519b376567118ac28b3.html" alt="" coords="16,16,2035,181"/>
+</map>
