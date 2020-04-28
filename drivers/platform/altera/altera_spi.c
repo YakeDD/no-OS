@@ -53,12 +53,21 @@
 /******************************************************************************/
 
 /**
+ * @brief Altera platform specific SPI platform ops structure
+ */
+const struct spi_platform_ops altera_platform_ops = {
+        .spi_ops_init = &xil_spi_init,
+        .spi_ops_write_and_read = &altera_spi_write_and_read,
+        .spi_ops_remove = &altera_spi_remove
+};
+
+/**
  * @brief Initialize the SPI communication peripheral.
  * @param desc - The SPI descriptor.
  * @param param - The structure that contains the SPI parameters.
  * @return SUCCESS in case of success, FAILURE otherwise.
  */
-int32_t spi_init(struct spi_desc **desc,
+int32_t altera_spi_init(struct spi_desc **desc,
 		 const struct spi_init_param *param)
 {
 	spi_desc *descriptor;
@@ -95,7 +104,7 @@ int32_t spi_init(struct spi_desc **desc,
  * @param desc - The SPI descriptor.
  * @return SUCCESS in case of success, FAILURE otherwise.
  */
-int32_t spi_remove(struct spi_desc *desc)
+int32_t altera_spi_remove(struct spi_desc *desc)
 {
 	if (desc) {
 		// Unused variable - fix compiler warning
@@ -112,7 +121,7 @@ int32_t spi_remove(struct spi_desc *desc)
  * @return SUCCESS in case of success, FAILURE otherwise.
  */
 
-int32_t spi_write_and_read(struct spi_desc *desc,
+int32_t altera_spi_write_and_read(struct spi_desc *desc,
 			   uint8_t *data,
 			   uint16_t bytes_number)
 {
